@@ -11,7 +11,7 @@
 🔭 Actualmente trabajando en proyectos con **React, TypeScript y Node.js**.  
 📚 Siempre en busca de nuevas tecnologías y metodologías para mejorar mis habilidades.  
 💬 Me encanta colaborar en proyectos open source y compartir conocimientos.  
-📫 ¿Hablamos? [LinkedIn](https://www.linkedin.com/in/lautaro-lotoski-9b2275279/) | [Email](lautilotoski@gmail.com)  
+📫 ¿Hablamos? [LinkedIn](https://www.linkedin.com/in/lautaro-lotoski-9b2275279/) | 📧 lautilotoski@gmail.com  
 
 ---
 
@@ -45,8 +45,9 @@
 ---
 
 ### 📫 ¡Conectemos!  
-🔗 [LinkedIn](https://www.linkedin.com/in/lautaro-lotoski-9b2275279/) | 📧 [Email](mailto:tuemail@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/lautaro-lotoski-9b2275279/) | 📧 lautilotoski@gmail.com  
 
 ---
 
 ⭐ **Si te gusta mi trabajo, no olvides darle una estrella a mis proyectos!** 🚀  
+
