@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Lautaro Emilio Lotoski! 👋</h1>
+<h1 align="center" style="font-size: 24px;">Hola, soy Lautaro Emilio Lotoski! 👋</h1>
 
 <p align="center">
   🚀 Desarrollador Frontend | React | TypeScript | UX/UI Enthusiast  
@@ -32,15 +32,13 @@
 ---
 
 ### 🌟 Proyecto Destacado
-🚀 **[The Three Broomsticks](https://github.com/LELautaroEmilioLotoski/PF-Henry-front)** –
-En este proyecto grupal de Henry, creamos una aplicación web para un restaurante, ofreciendo una experiencia flexible para realizar pedidos en el local, take away o hacer reservas. La plataforma está inspirada en el mundo de Harry Potter, con un diseño y animaciones que sumergen a los usuarios en una atmósfera única.
+🚀 **[The Three Broomsticks](https://github.com/LELautaroEmilioLotoski/PF-Henry-front)** –  
+Aplicación web para un restaurante inspirada en el mundo de Harry Potter, permitiendo pedidos en el local, take away y reservas. La plataforma ofrece tres tipos de usuarios:  
+- **Cliente:** Realiza pedidos, reservas y paga con diversos métodos.  
+- **Empleado:** Gestiona reservas y pedidos pendientes.  
+- **Administrador:** Administra usuarios, menús y productos.  
+Proyecto que combina conocimientos técnicos y trabajo en equipo para crear una experiencia única.
 
-La aplicación tiene tres tipos de usuarios:
-
-Cliente: Realiza pedidos, reservas y paga con métodos como PayPal, tarjeta o en efectivo.
-Empleado: Gestiona reservas y pedidos pendientes.
-Administrador: Administra usuarios, menús, combos, productos y empleados.
-Este proyecto nos permitió aplicar nuestros conocimientos técnicos y trabajar en equipo para crear una experiencia innovadora.
 ---
 
 ### 🎯 Objetivos 2025  
@@ -55,5 +53,5 @@ Este proyecto nos permitió aplicar nuestros conocimientos técnicos y trabajar 
 
 ---
 
-⭐ **Si te gusta mi trabajo, no olvides darle una estrella a mis proyectos!** 🚀  
+⭐ **Si te gusta mi trabajo, no olvides darle una estrella a mis proyectos!** 🚀
 
