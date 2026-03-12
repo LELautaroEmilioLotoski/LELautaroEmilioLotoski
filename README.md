@@ -16,7 +16,7 @@ Apasionado por crear aplicaciones web intuitivas, escalables y con una gran expe
 
 📫 Contacto: **[lautilotoski@gmail.com](mailto:lautilotoski@gmail.com)**
 🔗 LinkedIn:
-https://www.linkedin.com/in/lautaro-lotoski-9b2275279/
+https://www.linkedin.com/in/lautaro-lotoski/
 
 ---
 
