@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Lautaro Emilio Lotoski 👋</h1>
-<h3 align="center">Desarrollador Frontend | React | TypeScript | Construyendo aplicaciones web modernas</h3>
+<h3 align="center">Desarrollador Fullstack | React | TypeScript | Next.js | Node.js | Express Construyendo aplicaciones web modernas</h3>
 
 <p align="center">
 Apasionado por crear aplicaciones web intuitivas, escalables y con una gran experiencia de usuario.
